@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   </h3><br />
   
   www.hyunjunha.com
+    <br />
 www.youtube.com/c/hyunjunha
 </div>
 
