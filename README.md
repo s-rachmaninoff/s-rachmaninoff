@@ -1,10 +1,6 @@
 <!--
 ### Hi there 👋
 
-
-
-www.hyunjunha.com
-www.youtube.com/c/hyunjunha
 **Kim-SuBin/Kim-SuBin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,6 +23,8 @@ Here are some ideas to get you started:
   I'm Hyun-Jun Ha<img src="https://media.giphy.com/media/Hy3w28kJ4j7vdTsi9s/giphy.gif" width="45px">
   </h3><br />
   
+  www.hyunjunha.com
+www.youtube.com/c/hyunjunha
 </div>
 
 <br />
